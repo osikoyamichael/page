@@ -1,0 +1,225 @@
+
+
+.logo{
+    width: 4em;
+    border: 2px solid;
+    border-radius: 4em;
+    border-style: groove;
+    margin-left: 1em;
+}
+
+
+.home{
+    border: 2px solid white;
+    width: 3em;
+    padding:0.5em;
+    height: 1em;
+    background-color: blue;
+    text-align: center;
+    border-radius: 2em;
+    color: white;
+    font-weight: bolder;
+    margin-left: 40em;
+    margin-top: -3.2em;
+}
+a{
+    color:white;
+    text-decoration: none;
+
+}
+
+.join{
+    border: 2px solid white;
+    width: 3em;
+    padding:0.5em;
+    height: 1em;
+    background-color: blue;
+    text-align: center;
+    border-radius: 2em;
+    color: white;
+    font-weight: bolder;
+    margin-left: 50em;
+    margin-top: -2.2em;
+
+}
+
+.event{
+    border: 2px solid white;
+    width: 3em;
+    padding:0.5em;
+    height: 1em;
+    background-color: blue;
+    text-align: center;
+    border-radius: 2em;
+    color: white;
+    font-weight: bolder;
+    margin-left: 60em;
+    margin-top: -2.3em;
+
+}
+
+.gallery{
+    border: 2px solid white;
+    width: 3.3em;
+    padding:0.5em;
+    height: 1em;
+    background-color: blue;
+    text-align: center;
+    border-radius: 2em;
+    color: white;
+    font-weight: bolder;
+    margin-left: 70em;
+    margin-top: -2.2em;
+
+}
+.pray{
+    width:85.5em;
+    height: 30em;
+    margin-top: 0.2em;
+    margin-left: -1em;
+}
+.christ{
+    border: 2px solid white;
+    padding: 4em;
+    height: 10em;
+    width: 30em;
+    color:white;
+    margin-top: -25em;
+    text-align: center;
+    background-color: white;
+
+}
+.lamp{
+    font-size: large;
+    font-weight: bolder;
+}
+.h1{
+    font-weight: bolder;
+    font-style: italic;
+}
+.service{
+padding-top: 5em;
+margin-left: 10em;
+color:blue ;
+font-weight: bolder;
+}
+.mon{
+    margin-top: -1em;
+}
+.address{
+    color: blue;
+    margin-top: -7em;
+    margin-left: 40em;
+}
+.recent{
+    margin-top: 6em;
+    margin-left: 30em;
+    color: blue;
+    font-family: sans-serif;
+}
+.symbol{
+    font-size:xx-large;
+    margin: -1.4em;
+    margin-left:2em;
+}
+.form{
+    background-color:navy;
+}
+fieldset{
+    width: 10em;
+    font-size: larger;
+    background-color: white;
+    zoom: 1.7;
+    margin-left: 15em;
+    border-radius: 1em;
+    border-color: white;
+    color: blue;
+    font-weight: bold;
+    }
+.sign{
+    border: 2px solid blue;
+    width:4em;
+    background-color: blue;
+    color: white;
+    text-align: center;
+       font-family: Helvetica;
+       border-style: groove;
+       border-radius: 0.3em;
+}
+input{
+    border-color:blue;
+}
+textarea{
+    border-color: blue;
+    color: blue;
+}
+button{
+    border-color: blue;
+    font-weight: bold;
+    color: blue;
+}
+.other{
+    background-color: navy;
+    color: white;
+}
+.link{
+    font-style: italic;
+
+}
+li{
+    color: white;
+}
+.place{
+    color:whitesmoke;
+    font-size: x-large;
+
+}
+.Golgotha{
+    width: 10em;
+}
+.Capernaum{
+    width: 10em;
+
+}
+.cap{
+    margin-top: -18em;
+    margin-left: 23em;
+}
+.jerusalem{
+    width: 10em;
+}
+.jer{
+    margin-top: -18.3em;
+    margin-left: 45em;
+}
+.jordan{
+    width: 10em;
+    height: 15em;
+}
+.jor{
+
+}
+.Nazareth{
+    width: 10em;
+}
+.naz{
+    margin-top: -18em;
+    margin-left: 23em;
+}
+.Bethlehem{
+    width: 10em;
+}
+.bet{
+    margin-top: -17em;
+    margin-left: 45em;
+}
+.gall{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-top: 2em;
+}
+.galle{
+    background-color:navy;
+}
